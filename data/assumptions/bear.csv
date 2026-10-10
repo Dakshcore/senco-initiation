@@ -1,0 +1,16 @@
+driver,FY27,FY28,FY29,FY30,FY31,source
+sssg,13.73,13.73,13.73,13.73,13.73,Revenue growth 20.73: FY22-FY26 25th percentile (higher is better); range 15.36-33.22; less new stores
+new_store_contribution,7.0,7.0,7.0,7.0,7.0,G133 (Q2FY26): new stores add 6-8%; midpoint
+store_additions,,,,,,Memo; no store history in the Screener export
+gold_price_change,,,,,,Memo; not in the history
+ebitda_margin,7.41,7.41,7.41,7.41,7.41,FY22-FY26 25th percentile (higher is better); range 6.02-11.67
+other_income_pct,0.81,0.81,0.81,0.81,0.81,"FY22-FY26 median, same in all cases; range 0.36-0.95"
+dep_rate,20.25,20.25,20.25,20.25,20.25,"FY22-FY26 median, same in all cases; range 18.82-21.49"
+capex_pct,1.81,1.81,1.81,1.81,1.81,"FY22-FY26 median, same in all cases; range 1.63-2.66"
+interest_rate,9.21,9.21,9.21,9.21,9.21,FY22-FY26 75th percentile (lower is better); range 7.66-10.31
+tax_rate,26.88,26.88,26.88,26.88,26.88,"FY22-FY26 median, same in all cases; range 24.70-27.46"
+inventory_days,166.01,166.01,166.01,166.01,166.01,FY22-FY26 75th percentile (lower is better); range 125.50-186.08
+receivable_days,4.67,4.67,4.67,4.67,4.67,FY22-FY26 75th percentile (lower is better); range 3.68-9.73
+other_assets_pct,5.98,5.98,5.98,5.98,5.98,FY22-FY26 75th percentile (lower is better); range 4.55-6.48
+other_liab_days,41.34,41.34,41.34,41.34,41.34,FY22-FY26 25th percentile (higher is better); range 35.96-80.04
+payout,5.29,5.29,5.29,5.29,5.29,"FY22-FY26 median, same in all cases; range 4.12-10.28"

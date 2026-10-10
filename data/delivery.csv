@@ -1,0 +1,187 @@
+id,call_quarter,metric,guided_value,target_period,lo,hi,better,call_actual,screener_key,screener_actual,scored_on,actual,verdict,reason
+G001,Q1FY24,diamond_share,~15% blended (from 9-10%),medium term,,,,,,,,,not due,
+G002,Q1FY24,showroom_additions,8 stores in pipeline,Q2FY24,,,,+3 stores,,,manual,+3 stores,not scorable,"Pipeline, not an opening commitment: 3 opened in Q2FY24, 8 more in October"
+G003,Q1FY24,revenue_growth,15-20%,FY24,15,20,higher,28.5%,rev_growth:FY24,28.55,screener,28.55,beat,Call says 28.5%
+G004,Q1FY24,other,H1 40-45% / H2 55-60% of annual revenue,FY24,,,,,,,,,no actual,H1/H2 split not reported
+G005,Q1FY24,ebitda_margin,7-8%,FY24,7,8,higher,7.2%,ebitda_margin:FY24,7.41,call,7.2,met,Call also says 7.3% later
+G006,Q1FY24,other,"H2-weighted PAT as in FY23 (H1 Rs30-40cr, H2 ~Rs130cr)",FY24,123.5,136.5,higher,H1 ~Rs 40 cr; H2 ~Rs 141 cr,,,call,141.0,beat,"H2 PAT ~130 cr guided; actual = FY PAT 181 less H1 'around' 40, approximate"
+G007,Q1FY24,gross_margin,slightly lower than FY23,FY24,,0,higher,15.3%,gm_change_bps:FY24,-78.59,screener,-78.59,met,'Slightly lower than FY23': met if the FY24 gross margin is below FY23
+G008,Q1FY24,diamond_share,14-15% own stores; 7-8% franchise,unspecified,,,,,,,,,not due,
+G009,Q1FY24,revenue_growth,18-20%,FY24,18,20,higher,28.5%,rev_growth:FY24,28.55,screener,28.55,beat,Call says 28.5%
+G010,Q1FY24,other,"upwards of Rs1,000 crore revenue",Q2FY24,,,,,,,,,no actual,Q2FY24 revenue in rupees not reported; Screener quarters start Q4FY24
+G011,Q1FY24,other,volume growth mid single digit if gold stable,FY24,,,,,,,,,no actual,Only 9M volume growth reported
+G012,Q1FY24,ebitda_margin,"same range as now (7-8%), no dramatic rise",medium term,,,,,,,,,not due,
+G013,Q2FY24,showroom_additions,+8-10 more stores; 25-26 total in FY24,FY24,25,26,higher,"23 stores added (17 own, 6 franchise)",,,call,23.0,missed,Guided 25-26 store openings in FY24; 23 opened
+G014,Q2FY24,revenue_growth,18-20%,FY24,18,20,higher,28.5%,rev_growth:FY24,28.55,screener,28.55,beat,Call says 28.5%
+G015,Q2FY24,gross_margin,14.5-15%,FY24,14.5,15,higher,15.3%,gross_margin:FY24,15.29,call,15.3,beat,
+G016,Q2FY24,gross_margin,18-19% in H2,H2FY24,,,,,,,,,no actual,H2 gross margin not reported
+G017,Q2FY24,diamond_share,15% blended,next 3-4 years,,,,,,,,,not due,
+G018,Q2FY24,showroom_additions,+5-6 own and +3-4 franchise,H2FY24,8,10,higher,"+4 own, +2 franchise (after 10 Nov call)",,,call,6.0,missed,Guided 8-10 more after the 10 Nov call (153 stores); FY ended at 159
+G019,Q2FY24,showroom_additions,"8 stores: 2-3 south/west, 5 east/north",H2FY24,,,,,,,,,no actual,Regional split not reported
+G020,Q2FY24,showroom_additions,"20-25 stores/yr (15-18 own, 8-10 franchise)",FY24-FY26,20,25,higher,FY24 +23; FY25 +16; FY26 +26,,,call,16.0,missed,"Each of FY24-FY26: 23, 16, 26; scored on the weakest year, FY25"
+G021,Q2FY24,showroom_count,250 stores,next 4-5 years,,,,,,,,,not due,
+G022,Q2FY24,debt,D/E 1.0-1.2x,unspecified,,,,,,,,,not due,
+G023,Q2FY24,diamond_share,north stud ratio 25%,unspecified,,,,,,,,,not due,
+G024,Q2FY24,diamond_share,franchise stud ratio 10%,unspecified,,,,,,,,,not due,
+G025,Q2FY24,other,hedge ratio minimum 80%,unspecified,,,,,,,,,not due,
+G026,Q3FY24,revenue_growth,minimum 18-20%,unspecified,,,,,,,,,not due,
+G027,Q3FY24,revenue_growth,23-24%,FY24,23,24,higher,28.5%,rev_growth:FY24,28.55,screener,28.55,beat,Call says 28.5%
+G028,Q3FY24,debt,D/E 1.0-1.2x,unspecified,,,,,,,,,not due,
+G029,Q3FY24,showroom_additions,+1-2 franchise stores,Q4FY24,1,2,higher,+2 franchise stores,,,call,2.0,met,FY24 franchise 6 less 9M franchise 4
+G030,Q3FY24,ebitda_margin,~7%,FY24,6.65,7.35,higher,7.2%,ebitda_margin:FY24,7.41,call,7.2,met,'~7%' scored as 6.65-7.35%
+G031,Q3FY24,gross_margin,stable ~14%,unspecified,,,,,,,,,not due,
+G032,Q3FY24,showroom_additions,"18-20 stores (9-10 own, 9-10 franchise)",FY25,18,20,higher,"+16 stores (9 own, 6 franchise, 1 Sennes)",,,call,16.0,missed,16 includes 1 Sennes store
+G033,Q3FY24,franchise_mix,50:50 own vs franchise in new stores,medium term,,,,,,,,,not due,
+G034,Q3FY24,capex,Rs55-65 crore,FY25,,,,,,,,,no actual,FY25 capex not reported on the calls
+G035,Q3FY24,debt,D/E 1.2-1.25x,FY25-FY27,,,,,,,,,not due,
+G036,Q3FY24,other,"existing stores ROE 19-20%, ROCE 15-16%",unspecified,,,,,,,,,not due,
+G037,Q3FY24,showroom_additions,10-12 own + 10-12 franchise,FY25-FY26,20,24,higher,FY25 +16; FY26 +26,,,call,16.0,missed,"Each of FY25-FY26: 16, 26; scored on the weakest year, FY25"
+G038,Q4FY24,ebitda_margin,~8% and above,medium term,,,,,,,,,not due,
+G039,Q4FY24,revenue_growth,18-20%,FY25,18,20,higher,19.7%,rev_growth:FY25,20.73,screener,20.73,beat,Call says 19.7% standalone
+G040,Q4FY24,pat_growth,15-20%,FY25,15,20,higher,10.1%,pat_growth:FY25,-11.98,screener,-11.98,missed,Missed on both bases: reported PAT fell; management's adjusted PAT rose 10.1%
+G041,Q4FY24,showroom_additions,"+16-20 showrooms (8-10 COCO, 8-10 franchise)",FY25,16,20,higher,"+16 showrooms (9 COCO, 6 franchise, +1 Sennes)",,,call,16.0,met,16 includes 1 Sennes store
+G042,Q4FY24,other,70-80% of new stores in East and North,FY25,,,,,,,,,no actual,Regional share of openings not reported
+G043,Q4FY24,diamond_share,+100-130 bps per year,medium term,,,,,,,,,not due,
+G044,Q4FY24,gross_margin,+20-30 bps,FY25,20,30,higher,,gm_change_bps:FY25,-183.33,screener,-183.33,missed,"Gross margin change FY24 to FY25, bps; includes the customs duty loss"
+G045,Q4FY24,ebitda_margin,+20-30 bps,FY25,20,30,higher,,ebitda_change_bps:FY25,-139.42,screener,-139.42,missed,"EBITDA margin change FY24 to FY25, bps"
+G046,Q4FY24,debt,Gold metal loan ~75% of borrowing,medium term,,,,,,,,,not due,
+G047,Q4FY24,sssg,12-13% (at 20% total growth),FY25,12,13,higher,15-16%,,,call,14.0,beat,"Call gives 15-16% and 14-15%; scored on the lower figure, 14%"
+G048,Q1FY25,showroom_additions,+18-20 showrooms,FY25,18,20,higher,+16 showrooms,,,call,16.0,missed,16 includes 1 Sennes store
+G049,Q1FY25,other,Rs 50 crore customs duty cut inventory impact,Q2FY25-Q3FY25,47.5,52.5,lower,"Rs 57.4 cr total (Q2 Rs29 cr, Q3 Rs27 cr)",,,call,56.0,missed,Loss estimate ~50 cr; actual Q2 29 + Q3 27 = 56 cr. Lower is better
+G050,Q1FY25,diamond_share,12.5-13% (floor 12%),FY25,12.5,13,higher,10.9%,,,call,10.9,missed,
+G051,Q1FY25,revenue_growth,18-20%,FY25,18,20,higher,19.7%,rev_growth:FY25,20.73,screener,20.73,beat,Call says 19.7% standalone
+G052,Q1FY25,gross_margin,14.5-15%,FY25,14.5,15,higher,,gross_margin:FY25,13.46,screener,13.46,missed,Not stated on the call; Screener gross margin matched the call to 0.01pp in FY24
+G053,Q1FY25,ebitda_margin,7-8%,FY25,7,8,higher,6.8% (adjusted),ebitda_margin:FY25,6.02,screener,6.02,missed,"Management adjusted EBITDA 427/6,258 = 6.8%, also below 7%"
+G054,Q1FY25,other,Old gold exchange share 40-45% of sales,unspecified,,,,,,,,,not due,
+G055,Q1FY25,sssg,13-14%,FY25,13,14,higher,15-16%,,,call,14.0,met,"Call gives 15-16% and 14-15%; scored on the lower figure, 14%"
+G056,Q1FY25,other,Sennes revenue Rs 50-100 crore,FY25,,,,,,,,,no actual,Sennes revenue not reported
+G057,Q1FY25,debt,Gold metal loan ~75% of borrowing,medium term,,,,,,,,,not due,
+G058,Q1FY25,pat_growth,15-18%,FY25,15,18,higher,10.1% (adjusted PAT),pat_growth:FY25,-11.98,screener,-11.98,missed,Missed on both bases: reported PAT fell; adjusted PAT rose 10.1%
+G059,Q2FY25,revenue_growth,~18%,FY25,17.1,18.9,higher,19.7%,rev_growth:FY25,20.73,screener,20.73,beat,'~18%' scored as 17.1-18.9%
+G060,Q2FY25,pat_growth,15-18%,FY25,15,18,higher,10.1% (adjusted PAT),pat_growth:FY25,-11.98,screener,-11.98,missed,Missed on both bases: reported PAT fell; adjusted PAT rose 10.1%
+G061,Q2FY25,other,Total duty impact INR 58-60 crore; balance in Q3,Q3FY25,58,60,lower,Q3 Rs27 cr; total Rs57.4 cr,,,call,57.4,beat,Total duty loss estimate; lower is better
+G062,Q2FY25,other,Hedging 80%+ of gold inventory,unspecified,,,,,,,,,not due,
+G063,Q2FY25,sssg,12-15%,Q3FY25,,,,,,,,,no actual,Q3FY25 SSSG not reported for the quarter
+G064,Q2FY25,gross_margin,15-16%,FY25,15,16,higher,,gross_margin:FY25,13.46,screener,13.46,missed,Not stated on the call
+G065,Q2FY25,sssg,10-12% (new stores add 6-7%),medium term,,,,,,,,,not due,
+G066,Q2FY25,showroom_additions,+18-20 showrooms (may end at 14-15),FY25,18,20,higher,+16 stores,,,call,16.0,missed,Management had warned it might end at 14-15
+G067,Q2FY25,other,USD 1-2 billion revenue aspiration,next 5 years,,,,,,,,,not due,
+G068,Q2FY25,other,8-10 Sennes stores,FY25,,,,,,,,,no actual,Sennes store count not reported
+G069,Q2FY25,revenue_growth,18-20%,9MFY25,18,20,higher,19% retail (consolidated 22%),,,call,22.0,beat,Consolidated 22% (retail 19%); consolidated used to match other revenue rows
+G070,Q2FY25,other,"65-70% of new stores in East, 15-20% North",medium term,,,,,,,,,not due,
+G071,Q2FY25,diamond_share,~15%,medium term,,,,,,,,,not due,
+G072,Q2FY25,diamond_share,12-12.5%,FY25,12,12.5,higher,10.9%,,,call,10.9,missed,
+G073,Q3FY25,showroom_additions,18-20 stores,FY25,18,20,higher,+16 stores,,,call,16.0,missed,16 includes 1 Sennes store
+G074,Q3FY25,showroom_additions,5-6 stores,Q4FY25,,,,,,,,,no actual,Q4FY25 openings not reported
+G075,Q3FY25,showroom_additions,3-4 Sennes stores,unspecified,,,,,,,,,not due,
+G076,Q3FY25,revenue_growth,18-20%,FY26,18,20,higher,"almost 33% (Rs 8,430 cr)",rev_growth:FY26,33.22,screener,33.22,beat,Call says almost 33%
+G077,Q3FY25,showroom_additions,~20 stores,FY26,19,21,higher,+26 stores (own/franchise split not reported),,,call,26.0,beat,'~20' scored as 19-21; FY26 count from the written summary page
+G078,Q3FY25,gross_margin,14-15%,medium term,,,,,,,,,not due,
+G079,Q3FY25,ebitda_margin,7-7.5%,Q4FY25,7,7.5,higher,9.2%,q_ebitda_margin:Q4FY25,9.22,call,9.2,beat,
+G080,Q3FY25,other,"New stores: East 60-70%, North ~20%, West/South ~10%",unspecified,,,,,,,,,not due,
+G081,Q3FY25,diamond_share,14-15%,medium term,,,,,,,,,not due,
+G082,Q3FY25,other,Gold loan cost impact Rs 7-8 Cr,Q4FY25,,,,,,,,,no actual,Rupee impact not reported
+G083,Q3FY25,ebitda_margin,7-8%,FY26-FY27,,,,,,,,,not due,
+G084,Q3FY25,other,"Revenue Rs 6,300-6,400 Cr",FY25,6300,6400,higher,"Rs 6,328 cr (consolidated)",revenue:FY25,6328.07,screener,6328.07,met,"Consolidated; standalone 6,258"
+G085,Q3FY25,revenue_growth,18-20% (value),FY25,18,20,higher,19.7%,rev_growth:FY25,20.73,screener,20.73,beat,Call says 19.7% standalone
+G086,Q3FY25,other,Volume growth low single digit,FY25,,,,,,,,,no actual,Total volume growth not reported
+G087,Q4FY25,revenue_growth,18-20%,FY26,18,20,higher,"almost 33% (Rs 8,430 cr)",rev_growth:FY26,33.22,screener,33.22,beat,
+G088,Q4FY25,ebitda_margin,6.8-7.2%,FY26,6.8,7.2,higher,11.5%,ebitda_margin:FY26,11.67,call,11.5,beat,Management attributes 2.5-3pp to the gold price rise
+G089,Q4FY25,pat_margin,3.5-3.7%,FY26,3.5,3.7,higher,,pat_margin:FY26,6.81,screener,6.81,beat,Includes gold price gains
+G090,Q4FY25,showroom_additions,18-20 stores minimum,FY26,18,20,higher,+26 stores,,,call,26.0,beat,
+G091,Q4FY25,franchise_mix,"Min 10 franchise, 8-10 company-owned",FY26,,,,,,,,,no actual,FY26 own/franchise split not reported
+G092,Q4FY25,other,Wedding segment 35-40% of business,unspecified,,,,,,,,,not due,
+G093,Q4FY25,other,ROCE 16-17%,FY28-FY29,,,,,,,,,not due,
+G094,Q4FY25,other,Gold metal loan rate +100 bps vs earlier,FY26,,,,,,,,,no actual,No FY26 rate vs earlier stated
+G095,Q4FY25,other,No equity raise for growth,FY26,,,,,share_capital_change:FY26,0.06,manual,,met,Share capital rose 0.06 cr (81.84 to 81.90): no equity raise
+G096,Q4FY25,ebitda_margin,7-7.5%,FY26,7,7.5,higher,11.5%,ebitda_margin:FY26,11.67,call,11.5,beat,Management attributes 2.5-3pp to the gold price rise
+G097,Q4FY25,other,In-house manufacturing max 5%,unspecified,,,,,,,,,not due,
+G098,Q4FY25,diamond_share,15%,FY28-FY29,,,,,,,,,not due,
+G099,Q4FY25,other,"New stores: North+East 70-80%, West/South ~20%",unspecified,,,,,,,,,not due,
+G100,Q4FY25,working_capital,Additional INR 300-400 Cr,FY26,,,,,,,,,no actual,Working capital addition not reported
+G101,Q4FY25,debt,D/E 1.0-1.2x,FY26,1.0,1.2,lower,,de:FY26,1.07,screener,1.07,met,Gross borrowings / equity
+G102,Q4FY25,debt,Max INR 350 Cr incremental borrowing,FY26,,350,lower,,borrowing_change:FY26,639.69,screener,639.69,missed,Guide assumed a stable gold price; gold rose
+G103,Q4FY25,other,Diamond volume growth 15-20%,FY26,,,,,,,,,no actual,Period of the 9% diamond volume figure not stated
+G104,Q4FY25,showroom_additions,3-4 Everlite stores (of ~20),FY26,,,,,,,,,no actual,Everlite openings not reported
+G105,Q1FY26,showroom_additions,18-20 stores,FY26,18,20,higher,+26 stores,,,call,26.0,beat,
+G106,Q1FY26,revenue_growth,~20%,FY26,19,21,higher,"almost 33% (Rs 8,430 cr)",rev_growth:FY26,33.22,screener,33.22,beat,'~20%' scored as 19-21%
+G107,Q1FY26,ebitda_margin,7%,FY26,6.65,7.35,higher,11.5%,ebitda_margin:FY26,11.67,call,11.5,beat,'7%' scored as 6.65-7.35%; gold price gains
+G108,Q1FY26,revenue_growth,18-20% (maybe 16-18%),Q2FY26,16,20,higher,Consolidated +2%; standalone +6.6%,q_rev_growth:Q2FY26,2.37,screener,2.37,missed,"Guided 18-20%, maybe 16-18%; standalone growth was 6.6%"
+G109,Q1FY26,ebitda_margin,6.8-7.3%,FY26,6.8,7.3,higher,11.5%,ebitda_margin:FY26,11.67,call,11.5,beat,Gold price gains
+G110,Q1FY26,other,Bridal jewellery volume -10% to -15%,FY26,,,,,,,,,no actual,Bridal volume not reported
+G111,Q1FY26,franchise_mix,11-12 franchisees (of ~20 stores),FY26,,,,,,,,,no actual,FY26 franchise count not reported
+G112,Q1FY26,other,Gold hedging coverage above 50%,unspecified,,,,,,,,,not due,
+G113,Q1FY26,other,"Gold sales 6,500-7,000 kg",FY26,,,,,,,,,no actual,Period of '6 tons' not stated
+G114,Q1FY26,diamond_share,15%,medium term,,,,,,,,,not due,
+G115,Q1FY26,other,LGD revenue below INR 50 Cr,FY26,,,,,,,,,no actual,LGD revenue not reported
+G116,Q1FY26,ebitda_margin,Quarterly variation max 100 bps,unspecified,,,,,,,,,not due,
+G117,Q1FY26,showroom_additions,18-20 stores per year,FY27 onward,,,,,,,,,not due,
+G118,Q1FY26,franchise_mix,"65-70% franchise, 25-30% owned",medium term,,,,,,,,,not due,
+G119,Q2FY26,revenue_growth,18-20%,rest of FY26,18,20,higher,Q3 +50%; Q4 +45%,h2_rev_growth:FY26,48.02,screener,48.02,beat,H2FY26 vs H2FY25 from quarterly sales
+G120,Q2FY26,revenue_growth,"Revenue above INR 7,400 crore",FY26,7400,,higher,"Rs 8,430 cr",revenue:FY26,8430.03,screener,8430.03,met,
+G121,Q2FY26,debt,GML mix 75%,unspecified,,,,,,,,,not due,
+G122,Q2FY26,other,+INR 20 crore PAT from lower GML rates,FY26,,,,,,,,,no actual,Effect not reported
+G123,Q2FY26,revenue_growth,18-20% p.a.,next 5-10 years,,,,,,,,,not due,
+G124,Q2FY26,ebitda_margin,7.2-7.4%,FY26,7.2,7.4,higher,11.5%,ebitda_margin:FY26,11.67,call,11.5,beat,Gold price gains
+G125,Q2FY26,ebitda_margin,minimum 7%,unspecified,,,,,,,,,not due,
+G126,Q2FY26,ebitda_margin,+20-30 bps per year,medium term,,,,,,,,,not due,
+G127,Q2FY26,ebitda_margin,7.1-7.4%,Q3FY26,7.1,7.4,higher,13.2%,q_ebitda_margin:Q3FY26,13.17,call,13.2,beat,"Management says 9.5-10% is the business margin, rest realisation gain"
+G128,Q2FY26,showroom_additions,+4-6 franchise showrooms,rest of FY26,,,,,,,,,no actual,H2 franchise openings not reported
+G129,Q2FY26,other,Sales hedging 90-100%,unspecified,,,,,,,,,not due,
+G130,Q2FY26,debt,Higher than Sep-25 level,FY26 (March 2026),,,,,,,,,no actual,Mar-26 vs Sep-25 debt not stated
+G131,Q2FY26,other,Inventory hedging 80-90% if gold falls,unspecified,,,,,,,,,not due,
+G132,Q2FY26,working_capital,"Working capital limit INR 3,000 crore",FY27,,,,,,,,,not due,
+G133,Q2FY26,sssg,12-14%,medium term,,,,,,,,,not due,
+G134,Q2FY26,diamond_share,13-13.5%,FY27,,,,,,,,,not due,
+G135,Q2FY26,showroom_additions,20-25 stores,FY27,,,,,,,,,not due,
+G136,Q3FY26,revenue_growth,20%+,FY27,,,,,,,,,not due,
+G137,Q3FY26,showroom_count,200+,Q4FY26,,,,,,,,,no actual,Mar-26 store count not stated
+G138,Q3FY26,ebitda_margin,7.5-7.8%,FY27,,,,,,,,,not due,
+G139,Q3FY26,inventory,up to 180 days,unspecified,,,,,,,,,not due,
+G140,Q3FY26,revenue_growth,25-30%,Q4FY26,25,30,higher,"+45% (Rs 1,997 cr)",q_rev_growth:Q4FY26,44.93,screener,44.93,beat,Call says 45%
+G141,Q3FY26,other,Blended borrowing cost -30-40 bps,FY27,,,,,,,,,not due,
+G142,Q3FY26,ebitda_margin,7.3-7.5% at lower gold price,FY27,,,,,,,,,not due,
+G143,Q3FY26,showroom_additions,18-20 stores,FY27,,,,,,,,,not due,
+G144,Q3FY26,franchise_mix,8-10 own + 8-10 franchise,FY27,,,,,,,,,not due,
+G145,Q3FY26,working_capital,Customer deposit limit INR500 crore,FY27,,,,,,,,,not due,
+G146,Q3FY26,ebitda_margin,7-8%,unspecified,,,,,,,,,not due,
+G147,Q3FY26,other,Store revenue INR100-150 crore,medium term,,,,,,,,,not due,
+G148,Q3FY26,revenue_growth,Non-East 25-30%; East 18-20%,FY27,,,,,,,,,not due,
+G149,Q3FY26,other,"Non-East revenue INR1,500-1,700 crore",FY27,,,,,,,,,not due,
+G150,Q3FY26,gross_margin,15-16%,FY27,,,,,,,,,not due,
+G151,Q3FY26,other,Hedging back to 80-90% on stability,unspecified,,,,,,,,,not due,
+G152,Q3FY26,revenue_growth,20-25%,unspecified,,,,,,,,,not due,
+G153,Q3FY26,other,Inventory hedging 55-60%,unspecified,,,,,,,,,not due,
+G154,Q4FY26,revenue_growth,18-20%,FY27,,,,,,,,,not due,
+G155,Q4FY26,pat_margin,4-4.5%,FY27,,,,,,,,,not due,
+G156,Q4FY26,showroom_additions,"18-20 stores, franchise-led",FY27,,,,,,,,,not due,
+G157,Q4FY26,ebitda_margin,7.5-7.8%,FY27,,,,,,,,,not due,
+G158,Q4FY26,other,Old gold exchange 50-55% of business,unspecified,,,,,,,,,not due,
+G159,Q4FY26,other,ROE/ROCE 15.5-16%,medium term,,,,,,,,,not due,
+G160,Q4FY26,revenue_growth,20-25%,FY27,,,,,,,,,not due,
+G161,Q4FY26,revenue_growth,"INR10,000-10,500 crore revenue",FY27,,,,,,,,,not due,
+G162,Q4FY26,ebitda_margin,+10-15 bps max YoY,FY27,,,,,,,,,not due,
+G163,Q4FY26,other,Marketing spend 1.8-2.2% of revenue,FY27,,,,,,,,,not due,
+G164,Q4FY26,debt,GML mix 50%+,unspecified,,,,,,,,,not due,
+G165,Q4FY26,other,Own factory share of manufacturing 10%,unspecified,,,,,,,,,not due,
+G166,Q4FY26,other,"Inventory hedging 50-60%, up to 80%",unspecified,,,,,,,,,not due,
+G167,Q4FY26,other,Customs duty inventory gain 6-7% of gold inventory,Q1FY27-Q2FY27,,,,,,,,,not due,
+G168,Q4FY26,inventory,160-180 days,FY27,,,,,,,,,not due,
+G169,Q4FY26,inventory,150-160 days,medium term,,,,,,,,,not due,
+G170,Q4FY26,other,"ROE/ROCE 16-17%+, 20% in 2-3 years",FY27-FY29,,,,,,,,,not due,
+G171,Q1FY27,showroom_additions,+12-15 stores,rest of FY27,,,,,,,,,not due,
+G172,Q1FY27,franchise_mix,Majority franchise,FY27,,,,,,,,,not due,
+G173,Q1FY27,revenue_growth,20%+,FY27,,,,,,,,,not due,
+G174,Q1FY27,revenue_growth,"Revenue above INR10,000 crore",FY27,,,,,,,,,not due,
+G175,Q1FY27,other,Other expenses to fall from about INR195 crore,Q2FY27 onward,,,,,,,,,not due,
+G176,Q1FY27,other,Inventory hedging about 50%,unspecified,,,,,,,,,not due,
+G177,Q1FY27,revenue_growth,25-30%,FY27,,,,,,,,,not due,
+G178,Q1FY27,other,ROE/ROCE toward 20%,medium term,,,,,,,,,not due,
+G179,Q1FY27,inventory,"INR8,000-9,000 crore at INR20,000 crore revenue",medium term,,,,,,,,,not due,
+G180,Q1FY27,ebitda_margin,7.5-7.8%,FY27,,,,,,,,,not due,
+G181,Q1FY27,other,Customs duty gain over 2-3 quarters,Q2FY27-Q4FY27,,,,,,,,,not due,
+G182,Q1FY27,other,Hedging 75-80% eventually,medium term,,,,,,,,,not due,
+G183,Q1FY27,ebitda_margin,8%,medium term,,,,,,,,,not due,
+G184,Q1FY27,pat_margin,4.5-5%,medium term,,,,,,,,,not due,
+G185,Q1FY27,revenue_growth,"Revenue INR20,000 crore+",next 4-5 years,,,,,,,,,not due,
+G186,Q1FY27,showroom_count,300+,next 4-5 years,,,,,,,,,not due,

@@ -1,0 +1,47 @@
+id,call_quarter,page,speaker,quote,metric,guided_value,target_period,actual_value,actual_source,delivered,notes
+,Q3FY25,4,Sen,"Our endeavour has been to open about 18 to 20 stores for the financial year, where we were of the expectation that there will be 8 to 10 own stores and 8 to 10 franchisees.",showroom_additions,18-20 stores,FY25,,,,"8-10 company-owned, 8-10 franchise"
+,Q3FY25,4,Sen,"in the coming quarter for the remaining February and March, there are 5 to 6 stores that are in the pipeline.",showroom_additions,5-6 stores,Q4FY25,,,,"2-3 own, 2-3 franchise"
+,Q3FY25,5,Sen,"gradually, under Sennes we will be opening 3 to 4 lab grown diamonds, leather bags and perfume stores.",showroom_additions,3-4 Sennes stores,unspecified,,,,Sennes Fashion lifestyle format
+,Q3FY25,5,Sen,"we will be doing it in this financial year, and we will continue to give our best efforts and continue to grow at 18% to 20% in the next financial year as well.",revenue_growth,18-20%,FY26,,,,
+,Q3FY25,5,Sen,"going forward for the new financial year, we will continue to endeavour to open about 20 odd stores, 8 to 10 company -owned-company-operated stores and 8 to 10 franchisees.",showroom_additions,~20 stores,FY26,,,,"8-10 company-owned, 8-10 franchise"
+,Q3FY25,7,Banka,"Over 3 to 4 quarters, you will always find 14% to 15% gross margin and 7% to 8% EBITDA margin.",gross_margin,14-15%,medium term,,,,Same sentence also gives 7-8% EBITDA
+,Q3FY25,7,Banka,"We hope and are confident that in Q4, we will deliver 7% to 7.5% EBITDA margin.",ebitda_margin,7-7.5%,Q4FY25,,,,
+,Q3FY25,10,Sen,"For Senco, it is about 10% to 11% share, which we intend to take towards 14% to 15%.",diamond_share,14-15%,medium term,,,,Studded/diamond share of sales; current 10-11%
+,Q3FY25,9,Sen,"60% to 70% of our new stores, we will continue to focus on growing in East India 20% odd we will grow in North India and remaining 10% in West and South.",other,"New stores: East 60-70%, North ~20%, West/South ~10%",unspecified,,,,Regional split of new stores
+,Q3FY25,13,Sen,"for these 2 months, we will have a higher cost of funding by 0.5% or so, which is going to have an impact of approximately Rs.7 Cr to Rs.8 Cr on the overall numbers.",other,Gold loan cost impact Rs 7-8 Cr,Q4FY25,,,,"Interest cost headwind, Feb-Mar"
+,Q3FY25,20,Banka,"But yes, for next year, next to next year, we are consistently looking at and working at 7% to 8% EBITDA margin.",ebitda_margin,7-8%,FY26-FY27,,,,
+,Q3FY25,22,Sen,"our expected revenue numbers for the whole of the year should be anywhere between Rs.6,300 crore to Rs.6,400 crore.",other,"Revenue Rs 6,300-6,400 Cr",FY25,,,,"Absolute revenue, not growth %"
+,Q3FY25,25,Sen,"In terms of value, we will end the year with 18% to 20% and Q4 growth year-on-year also in terms of value will be 18% to 20% minimum.",revenue_growth,18-20% (value),FY25,,,,Also says Q4 growth 18-20% minimum
+,Q3FY25,25,Sen,"We will continue to do that in terms of value. In terms of volume, it is going to be low single digit.",other,Volume growth low single digit,FY25,,,,"Volume, not value"
+,Q4FY25,5,Sen,we'll continue to be having a top line growth of 18% to 20%,revenue_growth,18-20%,FY26,,,,
+,Q4FY25,5,Sen,we will be working towards having and achieving an EBITDA of anywhere between 6.8% to 7.2%,ebitda_margin,6.8-7.2%,FY26,,,,
+,Q4FY25,5,Sen,our endeavour to achieve a PAT of 3.5% to 3.7% shall continue to remain,pat_margin,3.5-3.7%,FY26,,,,
+,Q4FY25,6,Sen,we intend to add a minimum of 18 to 20 stores with a higher focus on having more and more franchisees.,showroom_additions,18-20 stores minimum,FY26,,,,Transcript labels speaker Banka; content is MD update
+,Q4FY25,6,Sen,So minimum 10 franchisees we will be adding and about 8 to 10 company-owned company- operated stores,franchise_mix,"Min 10 franchise, 8-10 company-owned",FY26,,,,Transcript labels speaker Banka; content is MD update
+,Q4FY25,6,Sen,"And as far as the wedding segment is concerned, which will remain about 35% to 40% of the overall business",other,Wedding segment 35-40% of business,unspecified,,,,Transcript labels speaker Banka; content is MD update
+,Q4FY25,10,Banka,"we are looking at 16% to 17% in the next 3 to 4 years, right?",other,ROCE 16-17%,FY28-FY29,,,,ROCE; later in answer says 17-18% in 3-4 years
+,Q4FY25,11,Banka,I think that it will still be 100 basis points higher than the earlier rate. But it may come down.,other,Gold metal loan rate +100 bps vs earlier,FY26,,,,Banka says hard to guess
+,Q4FY25,13,Banka,"I think if I give you a straight answer, we won't raise any funds by way of equity to meet any demand and pressure for growth.",other,No equity raise for growth,FY26,,,,Growth via internal accruals and debt
+,Q4FY25,16,Banka,"But 7% to 7.5% EBITDA margin, one can very comfortably build in the model.",ebitda_margin,7-7.5%,FY26,,,,Above MD's 6.8-7.2% range; over 3-4 quarters
+,Q4FY25,17,Banka,"As the volume increases, it will be a matter of time, but we have said it will be 5%, maximum 5%.",other,In-house manufacturing max 5%,unspecified,,,,Share of sourcing made in-house
+,Q4FY25,19,Banka,"It can go up to 18% also, while very conservatively, we are saying 15% in the next 3 to 4 years.",diamond_share,15%,FY28-FY29,,,,Stud ratio; current 10.9%
+,Q4FY25,19,Sen,So we say that 70% to 80% of the stores will be in North and East of India and the remaining 20% of the stores will be in the West and South of India.,other,"New stores: North+East 70-80%, West/South ~20%",unspecified,,,,Regional split of new stores
+,Q4FY25,21,Banka,We are currently looking at an additional working capital requirement of approximately INR 300 to INR 400 crore.,working_capital,Additional INR 300-400 Cr,FY26,,,,
+,Q4FY25,21,Banka,"Based on our projected PAT, a debt-to-equity ratio in the range of 1:1 to 1.2 is considered comfortable.",debt,D/E 1.0-1.2x,FY26,,,,
+,Q4FY25,21,Banka,I think maximum INR 350 crore incremental borrowing is what you can look for.,debt,Max INR 350 Cr incremental borrowing,FY26,,,,Assumes stable gold price
+,Q4FY25,21,Banka,"So on a safe level, a maximum 15% to 20% diamond growth we can look at, which will purely be driven by the volume.",other,Diamond volume growth 15-20%,FY26,,,,"Volume growth, not value"
+,Q4FY25,22,Banka,You can look at 3 to 4 more Everlite stores out of 20. So 20 is a conservative number.,showroom_additions,3-4 Everlite stores (of ~20),FY26,,,,
+,Q1FY26,5,Sen,"our hope is that we might open 1 or 2 more stores more than 20, but surely, our expected numbers of 18 to 20 stores will be achieved.",showroom_additions,18-20 stores,FY26,,,,Possible 1-2 above 20
+,Q1FY26,6,Sen,"But for now, I think that we should all aim for looking at a guided number of a 20% growth.",revenue_growth,~20%,FY26,,,,Earlier 18-20%; may raise after Q3
+,Q1FY26,6,Sen,"But I think that, that 7% EBITDA should be a conservative way of looking at the full year guidance.",ebitda_margin,7%,FY26,,,,Initial guide 6.8-7.2%
+,Q1FY26,6,Sen,"I think that the growth compared to last Q2, this particular Q2 will again remain in the range of 18% to 20%, maybe 16% to 18% as on-date",revenue_growth,18-20% (maybe 16-18%),Q2FY26,,,,
+,Q1FY26,7,Banka,"on a sustainable basis, we are looking at 6.8% to 7.3%. It can be 7.3% or 7.4%.",ebitda_margin,6.8-7.3%,FY26,,,,"Sustainable level, not Q1 10.1%"
+,Q1FY26,9,Sen,"So, we will see a 10%, 15% downward trend in terms of volume for that kind of bridal Jewellery.",other,Bridal jewellery volume -10% to -15%,FY26,,,,
+,Q1FY26,10,Sen,"So hopefully, instead of 10, we shall be able to open maybe 11 or 12 franchisees.",franchise_mix,11-12 franchisees (of ~20 stores),FY26,,,,"Plan was 10 owned, 10 franchise"
+,Q1FY26,12,Banka,our coverage will consistently remain above 50%. That is the Board norm.,other,Gold hedging coverage above 50%,unspecified,,,,Range 50-80% depending on risk
+,Q1FY26,13,Banka,"on the whole year, the total sale will be around 6,500 kg to 7,000 kg depending upon how the prices pan out.",other,"Gold sales 6,500-7,000 kg",FY26,,,,Depends on gold price
+,Q1FY26,14,Banka,"So, what we have said is that we want to take the stud ratio to 15%.",diamond_share,15%,medium term,,,,Stud ratio; Q1 above 11%
+,Q1FY26,16,Sen,"FY '26, I do not see it from our side crossing, I do not see.",other,LGD revenue below INR 50 Cr,FY26,,,,Reply to analyst's INR 50 Cr question
+,Q1FY26,18,Banka,"the difference will not be more than 100 basis points is max variation which can happen, if at all.",ebitda_margin,Quarterly variation max 100 bps,unspecified,,,,Quarter-to-quarter EBITDA margin swing
+,Q1FY26,20,Sen,"we have always said that we want to open 18 to 20 stores every year, year-after-year",showroom_additions,18-20 stores per year,FY27 onward,,,,Funded by profits and equivalent debt
+,Q1FY26,20,Sen,"that 50%-50% can become 70% -- 65%, 70% franchisee and 25%, 3 0% owned stores.",franchise_mix,"65-70% franchise, 25-30% owned",medium term,,,,Internal aspiration; base plan 50-50

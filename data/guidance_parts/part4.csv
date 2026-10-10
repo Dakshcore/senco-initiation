@@ -1,0 +1,69 @@
+id,call_quarter,page,speaker,quote,metric,guided_value,target_period,actual_value,actual_source,delivered,notes
+,Q2FY26,5,Banka,we have given a guidance of around 18% to 20% growth for the rest of the year,revenue_growth,18-20%,rest of FY26,,,,"With 25% YTD, implies full-year growth above 20%"
+,Q2FY26,5,Banka,"which shows that clearly for the whole year, we will be crossing INR 7,400 crore.",revenue_growth,"Revenue above INR 7,400 crore",FY26,,,,TTM sales had already crossed this level
+,Q2FY26,8,Banka,we are always confident of 18% to 20% growth year-on-year for the next 5 to 10 years minimum,revenue_growth,18-20% p.a.,next 5-10 years,,,,
+,Q2FY26,8,Sen,this year also we should also be clocking an EBITDA between 7.2% to 7.4% on a whole year's level.,ebitda_margin,7.2-7.4%,FY26,,,,Closing remarks repeat 7.2-7.4% for rest of year
+,Q2FY26,11,Banka,"If the prices remain stable in the same range, then you can certainly look at 7.1% to 7.4%.",ebitda_margin,7.1-7.4%,Q3FY26,,,,Conditional on stable gold; said minimum 7.1-7.2% if prices rise sharply
+,Q2FY26,9,Banka,"For future also, we are driving the business clearly with a minimum 7% EBITDA target.",ebitda_margin,minimum 7%,unspecified,,,,
+,Q2FY26,9,Banka,"going year-on-year, as we are looking at improving our stud ratio, it should increase by 20-30 basis points more",ebitda_margin,+20-30 bps per year,medium term,,,,Linked to higher stud ratio and network scale
+,Q2FY26,12,Sen,"at the sales level, we will always remain at 90% to 100%.",other,Sales hedging 90-100%,unspecified,,,,"Hedging of sales volume, not inventory"
+,Q2FY26,17,Banka,"As we said, if price keeps coming down, we will swiftly increase the hedging ratio to 80% to 90%.",other,Inventory hedging 80-90% if gold falls,unspecified,,,,Conditional; inventory hedge was 65-70% at Q2 end
+,Q2FY26,6,Banka,While our ideal target to take the GML to 75% remains there,debt,GML mix 75%,unspecified,,,,GML share was about 54-55% in October 2025
+,Q2FY26,6,Banka,"So, that will add another INR 20 crore to the PAT for the whole year.",other,+INR 20 crore PAT from lower GML rates,FY26,,,,
+,Q2FY26,11,Sen,"So, we have about 4 to 6more franchisees that are to be opened in the pipeline",showroom_additions,+4-6 franchise showrooms,rest of FY26,,,,8 franchisee stores already opened in the year
+,Q2FY26,24,Banka,"almost 80% of the future growth, if we are looking, let's say, 20 to 25 stores next year, 80% will come in East and North.",showroom_additions,20-25 stores,FY27,,,,80% of additions in East and North
+,Q2FY26,18,Banka,"increased to INR 2,400 crore for March '26, maybe it will increase to INR 3,000 crore by March '27.",working_capital,"Working capital limit INR 3,000 crore",FY27,,,,"Limit INR 2,400 crore for March 2026"
+,Q2FY26,13,Banka,"March ' 26 is concerned, the debt level will be slightly more elevated than the September level",debt,Higher than Sep-25 level,FY26 (March 2026),,,,Stocking for Akshaya Tritiya and Pohela Boishakh
+,Q2FY26,19,Banka,"So, to give answer to your question, yes, we are looking at 13%, 13.5%, for FY '27.",diamond_share,13-13.5%,FY27,,,,Stud ratio about 12% in H1FY26
+,Q2FY26,18,Sen,"if we consider a stable gold price scenario, our SSSG is in the range of 12% to 14%, and the new stores add about 6% to 8% in the overall growth mark.",sssg,12-14%,medium term,,,,Stable gold scenario; new stores add 6-8% to growth
+,Q3FY26,6,Sen,But we are still giving a conservative guidance of 25% to 30%.,revenue_growth,25-30%,Q4FY26,,,,Said 25% could become 30-35%; called guidance conservative
+,Q3FY26,4,Sen,"build the brand, and have a growth of 20% plus for the coming financial year as well.",revenue_growth,20%+,FY27,,,,
+,Q3FY26,18,Banka,"But we will continue to grow by 20% to 25% and so on, depending upon our SSG as well.",revenue_growth,20-25%,unspecified,,,,"Said even if gold rises 50-60%, volumes would not follow"
+,Q3FY26,5,Banka,we have given guidance of around 7.5% to 7.8% for FY '27.,ebitda_margin,7.5-7.8%,FY27,,,,Sustainable full-year margin
+,Q3FY26,7,Banka,"Otherwise, between 7.3% to 7.5%, at an elevated price level 7.5% to 7.8%.",ebitda_margin,7.3-7.5% at lower gold price,FY27,,,,Margin depends on gold price level; gap 20-30 bps
+,Q3FY26,13,Sen,we will continue to make sure it remains between 7% to 8%.,ebitda_margin,7-8%,unspecified,,,,Stated in context of a possible gold price fall
+,Q3FY26,15,Banka,"15% to 16%, sir. You can take 15.5% to 16% or you can take 15% to 15.5%.",gross_margin,15-16%,FY27,,,,At steady gold prices; intent to improve via stud ratio
+,Q3FY26,5,Banka,"as the stud ratio improves, the inventory days is likely to remain in the range up to 180 days.",inventory,up to 180 days,unspecified,,,,Inventory days ranged 166-188 days
+,Q3FY26,6,Banka,"we can look at reducing the blended ROI by 30, 40 basis points in next year.",other,Blended borrowing cost -30-40 bps,FY27,,,,Based on new CareEdge A1 rating
+,Q3FY26,18,Banka,"But at the current elevated pressure, due to working capital challenges, it will remain in the range of 55% to 60%.",other,Inventory hedging 55-60%,unspecified,,,,Board-approved policy; could rise to 85-90% if prices stabilise
+,Q3FY26,17,Sen,"there is amount of stability and our balance sheet and liquidity is allowing us, we will go back to 80%, 90%.",other,Hedging back to 80-90% on stability,unspecified,,,,Conditional on stable gold and liquidity
+,Q3FY26,10,Sen,"Next year, sir, we continue to focus on 18 to 20 stores.",showroom_additions,18-20 stores,FY27,,,,
+,Q3FY26,10,Sen,"Our focus will be on opening more franchisee stores, broadly 8 to 10 own stores, 8 to 10 franchisees.",franchise_mix,8-10 own + 8-10 franchise,FY27,,,,Would open more franchise and fewer own stores if possible
+,Q3FY26,4,Sen,"hopefully, by the end of this quarter, we should be reaching 200 plus stores as we end this particular quarter.",showroom_count,200+,Q4FY26,,,,196 stores at call date
+,Q3FY26,13,Banka,Our target is clearly to take all stores to INR100 crores to INR150 crores level.,other,Store revenue INR100-150 crore,medium term,,,,Aspirational; 8-9 stores already above INR100 crore
+,Q3FY26,13,Sen,"So we are continuously looking at 25%, 30% growth in the non-East market",revenue_growth,Non-East 25-30%; East 18-20%,FY27,,,,Answer to question on non-East in FY27
+,Q3FY26,13,Banka,"At least around INR1,500 crores to INR1,600 crores, off the top. But maybe -- so we have to recheck the number for FY '27.",other,"Non-East revenue INR1,500-1,700 crore",FY27,,,,"Tentative; Banka later said INR1,700 crores clearly"
+,Q3FY26,11,Banka,which we plan to submit by August —the limit will be enhanced to ₹500 crores,working_capital,Customer deposit limit INR500 crore,FY27,,,,"Raise via Fund Yojana, Sobhagya, Marigold schemes"
+,Q4FY26,5,Sen,our focus of 18% to 20% growth for the whole year,revenue_growth,18-20%,FY27,,,,Later in the call raised to 20-25% range
+,Q4FY26,8,Sen,"from a guidance perspective, we would like to give you a 20% to 25% growth range.",revenue_growth,20-25%,FY27,,,,Called conservative; internal target higher
+,Q4FY26,10,Banka,"Yes, absolutely. That is in line with our guidance. While internally, we'll continue to target more.",revenue_growth,"INR10,000-10,500 crore revenue",FY27,,,,"Confirms analyst's INR10,000-10,500 crore revenue, 4.5% PAT margin, then 20-25% growth"
+,Q4FY26,6,Banka,we are still giving the guidance of 7.5% to 7.8% for the future.,ebitda_margin,7.5-7.8%,FY27,,,,FY26 reported EBITDA was 11.5%
+,Q4FY26,10,Banka,"let's say, 10 to 15 bps max, we are looking at as the competition will continue to intensify.",ebitda_margin,+10-15 bps max YoY,FY27,,,,Despite operating leverage
+,Q4FY26,5,Sen,"and a PAT between 4% to 4.5%, that will be the kind of guidance with which we will continue to look at the future.",pat_margin,4-4.5%,FY27,,,,Opening remarks also say EBITDA about 7.5% on average
+,Q4FY26,5,Sen,18 to 20 stores is what we would like to open. And the focus for our team is on how we can open more and more franchisees,showroom_additions,"18-20 stores, franchise-led",FY27,,,,
+,Q4FY26,15,Sen,"the marketing expense is 1.8% to 2.2%, we will continue at that kind of thing",other,Marketing spend 1.8-2.2% of revenue,FY27,,,,Said 1.8% is needed for future growth
+,Q4FY26,15,Banka,"But obviously, we intend to increase the GML portion to 50% plus.",debt,GML mix 50%+,unspecified,,,,GML cost 3-3.5%; share fell in March 2026
+,Q4FY26,20,Banka,"the days are high and at a lower parity at 160 days. So, we would intend to keep it between 160 and 180.",inventory,160-180 days,FY27,,,,Later in call said 165-180 days; inventory days 186-188 at Q4
+,Q4FY26,20,Sen,it's a lot of balancing that we need to do and ultimately work towards the 150 to 160 days inventory.,inventory,150-160 days,medium term,,,,Benchmark aspiration; conflicts with Banka's 160-180
+,Q4FY26,7,Sen,But I would say that 50% to 55% is the range we will closely monitor.,other,Old gold exchange 50-55% of business,unspecified,,,,About 50% in Q4FY26; no margin impact expected
+,Q4FY26,16,Banka,which will increase in future. We want to take the factory manufacturing to 10%.,other,Own factory share of manufacturing 10%,unspecified,,,,"Currently 4-5%; later said 8-9% at INR20,000 crore revenue"
+,Q4FY26,17,Banka,"While currently, it is 50% to 60%, it will be in this range. It can go up to 80% also.",other,"Inventory hedging 50-60%, up to 80%",unspecified,,,,Policy is to hedge up to 80%
+,Q4FY26,18,Banka,"this inventory will get sold in quarter 1 and quarter 2, but effectively it should be in the range of at least 6% to 7%",other,Customs duty inventory gain 6-7% of gold inventory,Q1FY27-Q2FY27,,,,"Roughly INR4,500 crore gold inventory; duty rose from 6% to 15%"
+,Q4FY26,21,Banka,"we will try to reach to 20% over 2- 3 years. So, north of 16%, 17% is a good target.",other,"ROE/ROCE 16-17%+, 20% in 2-3 years",FY27-FY29,,,,"Ex inventory gains; FY26 ROE 25%, ROCE 22%"
+,Q4FY26,7,Banka,"So maybe in future, the ROC, ROE and ROCE may be in the range of around 15.5% to 16% for the whole year.",other,ROE/ROCE 15.5-16%,medium term,,,,Differs from later 16-17% remark
+,Q1FY27,5,Sen,We remain focused on achieving 20%+ value growth for the financial year,revenue_growth,20%+,FY27,,,,"Also said 20-25% range, perhaps 25%+; revisit after Q3"
+,Q1FY27,6,Sen,"we can comfortably say that we should cross INR10,000 crores this year",revenue_growth,"Revenue above INR10,000 crore",FY27,,,,"FY26 revenue INR8,430 crore"
+,Q1FY27,12,Banka,"At the same time, we are preparing for 25%-30% growth, having already achieved 67% growth in Q1.",revenue_growth,25-30%,FY27,,,,"Planning statement, not formal guidance; ambiguous"
+,Q1FY27,14,Banka,remain confident of delivering a 7.5%-7.8% EBITDA margin for the full year.,ebitda_margin,7.5-7.8%,FY27,,,,Operational EBITDA; Q1 reported 7.0%
+,Q1FY27,16,Sen,we endeavour to move toward an 8% margin through a higher stud ratio and other initiatives,ebitda_margin,8%,medium term,,,,Aspiration from current 7.5-7.8%
+,Q1FY27,16,Sen,while targeting a PAT margin of around 4.5%-5%. We believe that would provide a sustainable balance between growth and profitability.,pat_margin,4.5-5%,medium term,,,,Q4FY26 call guided 4-4.5% for FY27
+,Q1FY27,4,Sen,The company remains on track to open another 12 to 15 stores during the remainder of the financial year,showroom_additions,+12-15 stores,rest of FY27,,,,8 added in Q1; earlier FY27 guidance was 18-20
+,Q1FY27,4,Sen,"the majority of the stores we open will be franchise stores, with a focus on East and North India.",franchise_mix,Majority franchise,FY27,,,,
+,Q1FY27,16,Sen,"over the next 4-5 years, grow the company to INR20,000 crores-plus of revenue.",revenue_growth,"Revenue INR20,000 crore+",next 4-5 years,,,,"From INR8,430 crore in FY26"
+,Q1FY27,16,Sen,"From around 200 stores today, we aim to build a 300-plus-store company.",showroom_count,300+,next 4-5 years,,,,"Stated alongside INR20,000 crore revenue vision"
+,Q1FY27,13,Banka,we will focus on improving return on equity and return on capital employed toward the 20% range.,other,ROE/ROCE toward 20%,medium term,,,,
+,Q1FY27,13,Banka,"achieving an INR20,000- crore top line could require roughly INR8,000-9,000 crores of inventory.",inventory,"INR8,000-9,000 crore at INR20,000 crore revenue",medium term,,,,"Current inventory about INR5,000 crore"
+,Q1FY27,10,Sen,"until gold prices stabilise to some extent, we intend to maintain hedging at around 50%.",other,Inventory hedging about 50%,unspecified,,,,Board-approved policy
+,Q1FY27,15,Sen,"In practice, we may move closer to 75%-80% while keeping a buffer of around 20% for flexibility.",other,Hedging 75-80% eventually,medium term,,,,Hedged as conditions stabilise; 'may' makes it soft
+,Q1FY27,8,Sen,"This run rate will not continue, and we expect it to subside in the upcoming quarters.",other,Other expenses to fall from about INR195 crore,Q2FY27 onward,,,,Qualitative; Q1 other expenses rose from about INR80 crore
+,Q1FY27,14,Sen,we believe the benefit from the duty increase will accrue over the coming 2-3 quarters.,other,Customs duty gain over 2-3 quarters,Q2FY27-Q4FY27,,,,Q1 gain estimated INR12-15 crore gross

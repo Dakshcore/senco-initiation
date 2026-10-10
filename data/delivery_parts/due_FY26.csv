@@ -1,0 +1,36 @@
+id,call_quarter,page,speaker,quote,metric,guided_value,target_period,notes
+G020,Q2FY24,16,Banka,"Guidance remains the same that 20 to 25 stores, so let us say 15 to 18 home stores and 8 to 10 franchise stores.",showroom_additions,"20-25 stores/yr (15-18 own, 8-10 franchise)",FY24-FY26,Said for each of next 3 years
+G037,Q3FY24,17,Sen,"I would say over next two years, 10 to 12 own and 10 to 12 franchisees",showroom_additions,10-12 own + 10-12 franchise,FY25-FY26,Reply to a West Bengal/East question; scope unclear
+G076,Q3FY25,5,Sen,"we will be doing it in this financial year, and we will continue to give our best efforts and continue to grow at 18% to 20% in the next financial year as well.",revenue_growth,18-20%,FY26,
+G077,Q3FY25,5,Sen,"going forward for the new financial year, we will continue to endeavour to open about 20 odd stores, 8 to 10 company -owned-company-operated stores and 8 to 10 franchisees.",showroom_additions,~20 stores,FY26,"8-10 company-owned, 8-10 franchise"
+G087,Q4FY25,5,Sen,we'll continue to be having a top line growth of 18% to 20%,revenue_growth,18-20%,FY26,
+G088,Q4FY25,5,Sen,we will be working towards having and achieving an EBITDA of anywhere between 6.8% to 7.2%,ebitda_margin,6.8-7.2%,FY26,
+G089,Q4FY25,5,Sen,our endeavour to achieve a PAT of 3.5% to 3.7% shall continue to remain,pat_margin,3.5-3.7%,FY26,
+G090,Q4FY25,6,Sen,we intend to add a minimum of 18 to 20 stores with a higher focus on having more and more franchisees.,showroom_additions,18-20 stores minimum,FY26,Transcript labels speaker Banka; content is MD update
+G091,Q4FY25,6,Sen,So minimum 10 franchisees we will be adding and about 8 to 10 company-owned company- operated stores,franchise_mix,"Min 10 franchise, 8-10 company-owned",FY26,Transcript labels speaker Banka; content is MD update
+G094,Q4FY25,11,Banka,I think that it will still be 100 basis points higher than the earlier rate. But it may come down.,other,Gold metal loan rate +100 bps vs earlier,FY26,Banka says hard to guess
+G095,Q4FY25,13,Banka,"I think if I give you a straight answer, we won't raise any funds by way of equity to meet any demand and pressure for growth.",other,No equity raise for growth,FY26,Growth via internal accruals and debt
+G096,Q4FY25,16,Banka,"But 7% to 7.5% EBITDA margin, one can very comfortably build in the model.",ebitda_margin,7-7.5%,FY26,Above MD's 6.8-7.2% range; over 3-4 quarters
+G100,Q4FY25,21,Banka,We are currently looking at an additional working capital requirement of approximately INR 300 to INR 400 crore.,working_capital,Additional INR 300-400 Cr,FY26,
+G101,Q4FY25,21,Banka,"Based on our projected PAT, a debt-to-equity ratio in the range of 1:1 to 1.2 is considered comfortable.",debt,D/E 1.0-1.2x,FY26,
+G102,Q4FY25,21,Banka,I think maximum INR 350 crore incremental borrowing is what you can look for.,debt,Max INR 350 Cr incremental borrowing,FY26,Assumes stable gold price
+G103,Q4FY25,21,Banka,"So on a safe level, a maximum 15% to 20% diamond growth we can look at, which will purely be driven by the volume.",other,Diamond volume growth 15-20%,FY26,"Volume growth, not value"
+G104,Q4FY25,22,Banka,You can look at 3 to 4 more Everlite stores out of 20. So 20 is a conservative number.,showroom_additions,3-4 Everlite stores (of ~20),FY26,
+G105,Q1FY26,5,Sen,"our hope is that we might open 1 or 2 more stores more than 20, but surely, our expected numbers of 18 to 20 stores will be achieved.",showroom_additions,18-20 stores,FY26,Possible 1-2 above 20
+G106,Q1FY26,6,Sen,"But for now, I think that we should all aim for looking at a guided number of a 20% growth.",revenue_growth,~20%,FY26,Earlier 18-20%; may raise after Q3
+G107,Q1FY26,6,Sen,"But I think that, that 7% EBITDA should be a conservative way of looking at the full year guidance.",ebitda_margin,7%,FY26,Initial guide 6.8-7.2%
+G108,Q1FY26,6,Sen,"I think that the growth compared to last Q2, this particular Q2 will again remain in the range of 18% to 20%, maybe 16% to 18% as on-date",revenue_growth,18-20% (maybe 16-18%),Q2FY26,
+G109,Q1FY26,7,Banka,"on a sustainable basis, we are looking at 6.8% to 7.3%. It can be 7.3% or 7.4%.",ebitda_margin,6.8-7.3%,FY26,"Sustainable level, not Q1 10.1%"
+G110,Q1FY26,9,Sen,"So, we will see a 10%, 15% downward trend in terms of volume for that kind of bridal Jewellery.",other,Bridal jewellery volume -10% to -15%,FY26,
+G111,Q1FY26,10,Sen,"So hopefully, instead of 10, we shall be able to open maybe 11 or 12 franchisees.",franchise_mix,11-12 franchisees (of ~20 stores),FY26,"Plan was 10 owned, 10 franchise"
+G113,Q1FY26,13,Banka,"on the whole year, the total sale will be around 6,500 kg to 7,000 kg depending upon how the prices pan out.",other,"Gold sales 6,500-7,000 kg",FY26,Depends on gold price
+G115,Q1FY26,16,Sen,"FY '26, I do not see it from our side crossing, I do not see.",other,LGD revenue below INR 50 Cr,FY26,Reply to analyst's INR 50 Cr question
+G119,Q2FY26,5,Banka,we have given a guidance of around 18% to 20% growth for the rest of the year,revenue_growth,18-20%,rest of FY26,"With 25% YTD, implies full-year growth above 20%"
+G120,Q2FY26,5,Banka,"which shows that clearly for the whole year, we will be crossing INR 7,400 crore.",revenue_growth,"Revenue above INR 7,400 crore",FY26,TTM sales had already crossed this level
+G122,Q2FY26,6,Banka,"So, that will add another INR 20 crore to the PAT for the whole year.",other,+INR 20 crore PAT from lower GML rates,FY26,
+G124,Q2FY26,8,Sen,this year also we should also be clocking an EBITDA between 7.2% to 7.4% on a whole year's level.,ebitda_margin,7.2-7.4%,FY26,Closing remarks repeat 7.2-7.4% for rest of year
+G127,Q2FY26,11,Banka,"If the prices remain stable in the same range, then you can certainly look at 7.1% to 7.4%.",ebitda_margin,7.1-7.4%,Q3FY26,Conditional on stable gold; said minimum 7.1-7.2% if prices rise sharply
+G128,Q2FY26,11,Sen,"So, we have about 4 to 6more franchisees that are to be opened in the pipeline",showroom_additions,+4-6 franchise showrooms,rest of FY26,8 franchisee stores already opened in the year
+G130,Q2FY26,13,Banka,"March ' 26 is concerned, the debt level will be slightly more elevated than the September level",debt,Higher than Sep-25 level,FY26 (March 2026),Stocking for Akshaya Tritiya and Pohela Boishakh
+G137,Q3FY26,4,Sen,"hopefully, by the end of this quarter, we should be reaching 200 plus stores as we end this particular quarter.",showroom_count,200+,Q4FY26,196 stores at call date
+G140,Q3FY26,6,Sen,But we are still giving a conservative guidance of 25% to 30%.,revenue_growth,25-30%,Q4FY26,Said 25% could become 30-35%; called guidance conservative

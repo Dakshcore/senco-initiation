@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+# Third-party documents: download from the links in data/transcripts/sources.csv and Screener.in
+data/transcripts/*.pdf
+data/transcripts/text/
+data/raw/

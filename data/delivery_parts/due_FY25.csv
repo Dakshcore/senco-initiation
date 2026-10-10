@@ -1,0 +1,35 @@
+id,call_quarter,page,speaker,quote,metric,guided_value,target_period,notes
+G032,Q3FY24,13,Sen,"while we want to open around 18 to 20 stores, our endeavour would be to open 9 to 10 company -owned, company-operated store and 9 to 10 franchisees",showroom_additions,"18-20 stores (9-10 own, 9-10 franchise)",FY25,Franchise additions slowed in FY24 on gold price
+G034,Q3FY24,14,Banka,Rs 55 crores to Rs 65 crores and we have adequate free cash flow for that,capex,Rs55-65 crore,FY25,Earlier in same answer Rs60-70 crore was mentioned
+G039,Q4FY24,7,Sen,we will want to continue to grow at about 18 % to 20% in terms of top line,revenue_growth,18-20%,FY25,
+G040,Q4FY24,7,Sen,we will also want to ensure that our bottom line also grows approximately between 15 % to 20%,pat_growth,15-20%,FY25,"Bottom line; conservative case 15%, optimistic 20%"
+G041,Q4FY24,8,Sen,"we are looking at about 8 to 10 Company owned, Company operated stores and 8 to 10 franchisees these are the thought process with which we are working for the new financial year",showroom_additions,"+16-20 showrooms (8-10 COCO, 8-10 franchise)",FY25,Same page also says 15 to 20 odd stores
+G042,Q4FY24,8,Sen,I would say 70% to 80% of our growth will continue to be Eastern and Northern India,other,70-80% of new stores in East and North,FY25,Regional mix of expansion
+G044,Q4FY24,11,Banka,we will look at around 20 to 30 basis point improvement in the gross margin and EBITDA. This is what is the conservative outlook we can give.,gross_margin,+20-30 bps,FY25,Same quote covers EBITDA margin
+G045,Q4FY24,11,Banka,we will look at around 20 to 30 basis point improvement in the gross margin and EBITDA. This is what is the conservative outlook we can give.,ebitda_margin,+20-30 bps,FY25,Same quote covers gross margin
+G047,Q4FY24,17,Banka,"if we grow 20% , SSSG will be 60% to 70% that is 12% to 13%",sssg,12-13% (at 20% total growth),FY25,SSSG is 60-70% of total growth
+G048,Q1FY25,3,Sen,we have been planning and aiming to open about 18 to 20 stores for the whole financial year,showroom_additions,+18-20 showrooms,FY25,6 opened in Q1
+G049,Q1FY25,5,Sen,"And this impact of 50 crores would be, I think, spread over the coming 2nd to 3rd quarters.",other,Rs 50 crore customs duty cut inventory impact,Q2FY25-Q3FY25,One-time hit from 9% duty cut
+G050,Q1FY25,8,Banka,"We are sure that we will achieve the 12.5% to 13% this year. But surely, we will touch 12%.",diamond_share,12.5-13% (floor 12%),FY25,Q1 studded ratio was about 9.6-10%
+G051,Q1FY25,9,Banka,we are confident that we will achieve overall 18% to 20% growth throughout the year subject to quarterly variances,revenue_growth,18-20%,FY25,
+G052,Q1FY25,10,Banka,We have said 14% 14.5% to 15% and EBITDA we have said 7 % to 8%.,gross_margin,14.5-15%,FY25,Transcript says 14% 14.5% to 15%; subject to customs duty impact
+G053,Q1FY25,10,Banka,We have said 14% 14.5% to 15% and EBITDA we have said 7 % to 8%.,ebitda_margin,7-8%,FY25,Subject to customs duty impact
+G055,Q1FY25,12,Banka,"So we are on course to 20% total growth, 13% to 14% SSSG.",sssg,13-14%,FY25,
+G056,Q1FY25,14,Banka,the contribution is not likely to be more than Rs 100 crores. I have said earlier Rs 50 crores. I think between Rs 50 crores to Rs 100 crores.,other,Sennes revenue Rs 50-100 crore,FY25,"Sennes: lab-grown, perfume, leather bags"
+G058,Q1FY25,18,Sen,"But because of the impact, we need to understand that there will be some impact. So the growth on bottom line will be 15%-18% growth.",pat_growth,15-18%,FY25,Revised down from 18-20% after duty cut
+G059,Q2FY25,5,Sen,The gold prices have been on an upward trend but let us assume an 18% growth year-on-year in terms of top line.,revenue_growth,~18%,FY25,Earlier guidance was 18-20%
+G060,Q2FY25,5,Sen,"our endeavour from the very beginning was to grow about 15% to 18%, but we just need to keep in mind that this one-time loss for the duty of INR 50 crore to INR 60 crore is there",pat_growth,15-18%,FY25,Duty loss INR 50-60 crore is one-time
+G061,Q2FY25,6,Banka,"So, our total impact is likely to be around INR 58 crore to INR 60 crore. So now that INR 29.83 crore has come in quarter 2, balance amount impact will come in quarter 3 that is H2.",other,Total duty impact INR 58-60 crore; balance in Q3,Q3FY25,INR 29.83 crore booked in Q2
+G063,Q2FY25,7,Sen,"So, for the month of October, the SSG will be in the range of 12% to 15%for Q3, it will be in that particular range.",sssg,12-15%,Q3FY25,
+G064,Q2FY25,8,Banka,gross margin what we have indicated will be between 15 % to 16%,gross_margin,15-16%,FY25,Raised from 14.5-15% given on Q1FY25 call; H1 was 14.7%
+G066,Q2FY25,13,Sen,"I think that 18 to 20, maybe at the end of the year, we will end up doing 15 or 14, but in our mind, we have to manifest 18 to 20 minimum that we want to grow with",showroom_additions,+18-20 showrooms (may end at 14-15),FY25,Target kept; management hints at shortfall
+G068,Q2FY25,16,Sen,"So, total we have six stores of Sennes and 2 to 3 more in the pipeline. So, by the end of the year, we will have 8 to 10.",other,8-10 Sennes stores,FY25,Sennes store count; 6 currently
+G069,Q2FY25,18,Banka,"So, I am saying 18 % to 20% at the end of Q3 for 9 months.",revenue_growth,18-20%,9MFY25,YTD was ~15% at call date due to post-Dhanteras lull
+G072,Q2FY25,20,Sen,"We were aiming that this year we will be closer to 12% to 12.5% due to the market condition. We are stuck at about 10 %, but we still have 4 months to 5 month time.",diamond_share,12-12.5%,FY25,Lowered from 12.5-13%; currently about 10%
+G073,Q3FY25,4,Sen,"Our endeavour has been to open about 18 to 20 stores for the financial year, where we were of the expectation that there will be 8 to 10 own stores and 8 to 10 franchisees.",showroom_additions,18-20 stores,FY25,"8-10 company-owned, 8-10 franchise"
+G074,Q3FY25,4,Sen,"in the coming quarter for the remaining February and March, there are 5 to 6 stores that are in the pipeline.",showroom_additions,5-6 stores,Q4FY25,"2-3 own, 2-3 franchise"
+G079,Q3FY25,7,Banka,"We hope and are confident that in Q4, we will deliver 7% to 7.5% EBITDA margin.",ebitda_margin,7-7.5%,Q4FY25,
+G082,Q3FY25,13,Sen,"for these 2 months, we will have a higher cost of funding by 0.5% or so, which is going to have an impact of approximately Rs.7 Cr to Rs.8 Cr on the overall numbers.",other,Gold loan cost impact Rs 7-8 Cr,Q4FY25,"Interest cost headwind, Feb-Mar"
+G084,Q3FY25,22,Sen,"our expected revenue numbers for the whole of the year should be anywhere between Rs.6,300 crore to Rs.6,400 crore.",other,"Revenue Rs 6,300-6,400 Cr",FY25,"Absolute revenue, not growth %"
+G085,Q3FY25,25,Sen,"In terms of value, we will end the year with 18% to 20% and Q4 growth year-on-year also in terms of value will be 18% to 20% minimum.",revenue_growth,18-20% (value),FY25,Also says Q4 growth 18-20% minimum
+G086,Q3FY25,25,Sen,"We will continue to do that in terms of value. In terms of volume, it is going to be low single digit.",other,Volume growth low single digit,FY25,"Volume, not value"

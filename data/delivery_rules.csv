@@ -1,0 +1,88 @@
+id,lo,hi,better,basis,screener_key,actual_num,manual_verdict,note
+G002,,,,none,,,not scorable,"Pipeline, not an opening commitment: 3 opened in Q2FY24, 8 more in October"
+G003,15,20,higher,screener,rev_growth:FY24,,,Call says 28.5%
+G004,,,,none,,,,H1/H2 split not reported
+G005,7,8,higher,call,ebitda_margin:FY24,,,Call also says 7.3% later
+G006,123.5,136.5,higher,call,,141,,"H2 PAT ~130 cr guided; actual = FY PAT 181 less H1 'around' 40, approximate"
+G007,,0,higher,screener,gm_change_bps:FY24,,,'Slightly lower than FY23': met if the FY24 gross margin is below FY23
+G009,18,20,higher,screener,rev_growth:FY24,,,Call says 28.5%
+G010,,,,none,,,,Q2FY24 revenue in rupees not reported; Screener quarters start Q4FY24
+G011,,,,none,,,,Only 9M volume growth reported
+G013,25,26,higher,call,,23,,Guided 25-26 store openings in FY24; 23 opened
+G014,18,20,higher,screener,rev_growth:FY24,,,Call says 28.5%
+G015,14.5,15,higher,call,gross_margin:FY24,,,
+G016,,,,none,,,,H2 gross margin not reported
+G018,8,10,higher,call,,6,,Guided 8-10 more after the 10 Nov call (153 stores); FY ended at 159
+G019,,,,none,,,,Regional split not reported
+G027,23,24,higher,screener,rev_growth:FY24,,,Call says 28.5%
+G029,1,2,higher,call,,2,,FY24 franchise 6 less 9M franchise 4
+G030,6.65,7.35,higher,call,ebitda_margin:FY24,,,'~7%' scored as 6.65-7.35%
+G032,18,20,higher,call,,16,,16 includes 1 Sennes store
+G034,,,,none,,,,FY25 capex not reported on the calls
+G039,18,20,higher,screener,rev_growth:FY25,,,Call says 19.7% standalone
+G040,15,20,higher,screener,pat_growth:FY25,,,Missed on both bases: reported PAT fell; management's adjusted PAT rose 10.1%
+G041,16,20,higher,call,,16,,16 includes 1 Sennes store
+G042,,,,none,,,,Regional share of openings not reported
+G044,20,30,higher,screener,gm_change_bps:FY25,,,"Gross margin change FY24 to FY25, bps; includes the customs duty loss"
+G045,20,30,higher,screener,ebitda_change_bps:FY25,,,"EBITDA margin change FY24 to FY25, bps"
+G047,12,13,higher,call,,14,,"Call gives 15-16% and 14-15%; scored on the lower figure, 14%"
+G048,18,20,higher,call,,16,,16 includes 1 Sennes store
+G049,47.5,52.5,lower,call,,56,,Loss estimate ~50 cr; actual Q2 29 + Q3 27 = 56 cr. Lower is better
+G050,12.5,13,higher,call,,10.9,,
+G051,18,20,higher,screener,rev_growth:FY25,,,Call says 19.7% standalone
+G052,14.5,15,higher,screener,gross_margin:FY25,,,Not stated on the call; Screener gross margin matched the call to 0.01pp in FY24
+G053,7,8,higher,screener,ebitda_margin:FY25,,,"Management adjusted EBITDA 427/6,258 = 6.8%, also below 7%"
+G055,13,14,higher,call,,14,,"Call gives 15-16% and 14-15%; scored on the lower figure, 14%"
+G056,,,,none,,,,Sennes revenue not reported
+G058,15,18,higher,screener,pat_growth:FY25,,,Missed on both bases: reported PAT fell; adjusted PAT rose 10.1%
+G059,17.1,18.9,higher,screener,rev_growth:FY25,,,'~18%' scored as 17.1-18.9%
+G060,15,18,higher,screener,pat_growth:FY25,,,Missed on both bases: reported PAT fell; adjusted PAT rose 10.1%
+G061,58,60,lower,call,,57.4,,Total duty loss estimate; lower is better
+G063,,,,none,,,,Q3FY25 SSSG not reported for the quarter
+G064,15,16,higher,screener,gross_margin:FY25,,,Not stated on the call
+G066,18,20,higher,call,,16,,Management had warned it might end at 14-15
+G068,,,,none,,,,Sennes store count not reported
+G069,18,20,higher,call,,22,,Consolidated 22% (retail 19%); consolidated used to match other revenue rows
+G072,12,12.5,higher,call,,10.9,,
+G073,18,20,higher,call,,16,,16 includes 1 Sennes store
+G074,,,,none,,,,Q4FY25 openings not reported
+G079,7,7.5,higher,call,q_ebitda_margin:Q4FY25,9.2,,
+G082,,,,none,,,,Rupee impact not reported
+G084,6300,6400,higher,screener,revenue:FY25,,,"Consolidated; standalone 6,258"
+G085,18,20,higher,screener,rev_growth:FY25,,,Call says 19.7% standalone
+G086,,,,none,,,,Total volume growth not reported
+G020,20,25,higher,call,,16,,"Each of FY24-FY26: 23, 16, 26; scored on the weakest year, FY25"
+G037,20,24,higher,call,,16,,"Each of FY25-FY26: 16, 26; scored on the weakest year, FY25"
+G076,18,20,higher,screener,rev_growth:FY26,,,Call says almost 33%
+G077,19,21,higher,call,,26,,'~20' scored as 19-21; FY26 count from the written summary page
+G087,18,20,higher,screener,rev_growth:FY26,,,
+G088,6.8,7.2,higher,call,ebitda_margin:FY26,11.5,,Management attributes 2.5-3pp to the gold price rise
+G089,3.5,3.7,higher,screener,pat_margin:FY26,,,Includes gold price gains
+G090,18,20,higher,call,,26,,
+G091,,,,none,,,,FY26 own/franchise split not reported
+G094,,,,none,,,,No FY26 rate vs earlier stated
+G095,,,,screener,share_capital_change:FY26,,met,Share capital rose 0.06 cr (81.84 to 81.90): no equity raise
+G096,7,7.5,higher,call,ebitda_margin:FY26,11.5,,Management attributes 2.5-3pp to the gold price rise
+G100,,,,none,,,,Working capital addition not reported
+G101,1.0,1.2,lower,screener,de:FY26,,,Gross borrowings / equity
+G102,,350,lower,screener,borrowing_change:FY26,,,Guide assumed a stable gold price; gold rose
+G103,,,,none,,,,Period of the 9% diamond volume figure not stated
+G104,,,,none,,,,Everlite openings not reported
+G105,18,20,higher,call,,26,,
+G106,19,21,higher,screener,rev_growth:FY26,,,'~20%' scored as 19-21%
+G107,6.65,7.35,higher,call,ebitda_margin:FY26,11.5,,'7%' scored as 6.65-7.35%; gold price gains
+G108,16,20,higher,screener,q_rev_growth:Q2FY26,,,"Guided 18-20%, maybe 16-18%; standalone growth was 6.6%"
+G109,6.8,7.3,higher,call,ebitda_margin:FY26,11.5,,Gold price gains
+G110,,,,none,,,,Bridal volume not reported
+G111,,,,none,,,,FY26 franchise count not reported
+G113,,,,none,,,,Period of '6 tons' not stated
+G115,,,,none,,,,LGD revenue not reported
+G119,18,20,higher,screener,h2_rev_growth:FY26,,,H2FY26 vs H2FY25 from quarterly sales
+G120,7400,,higher,screener,revenue:FY26,,,
+G122,,,,none,,,,Effect not reported
+G124,7.2,7.4,higher,call,ebitda_margin:FY26,11.5,,Gold price gains
+G127,7.1,7.4,higher,call,q_ebitda_margin:Q3FY26,13.2,,"Management says 9.5-10% is the business margin, rest realisation gain"
+G128,,,,none,,,,H2 franchise openings not reported
+G130,,,,none,,,,Mar-26 vs Sep-25 debt not stated
+G137,,,,none,,,,Mar-26 store count not stated
+G140,25,30,higher,screener,q_rev_growth:Q4FY26,,,Call says 45%
